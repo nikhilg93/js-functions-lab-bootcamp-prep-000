@@ -16,5 +16,5 @@ happyHolidayTo("Independence Day", "you")
 function holidayCountdown(holiday, days){
   return `It's ${days} days unitl ${holiday}!`
 }
-holidayCountdown("Mother's Day", 20)
+holidayCountdown("Mother's Day", '20')
 
